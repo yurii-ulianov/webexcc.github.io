@@ -699,6 +699,12 @@ Now create a new client ID that will be used to identify your application to Goo
 
 
 ---
+# Lab.12.8 Chat Configuration
+---
+
+
+
+---
 # Lab.12.9 Facebook Messenger Configuration
 ---
 
